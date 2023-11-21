@@ -1,0 +1,38 @@
+body {
+    background-color: #222;
+}
+
+.container {
+    width: 700px;
+    height: 565px;
+    padding: 30px;
+    font-size: 1.1rem; 
+    font-family: sans-serif;
+    text-align: center;
+    margin: 50px auto;
+    background-color: white;
+    border-radius: 5px;
+    color: #332;
+}
+
+input {
+    font-size: 1.75rem; 
+    letter-spacing: 1px;
+    text-align: center; 
+    padding: 7px; 
+    font-weight: bold;
+    color: #fff;
+    background-color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: rgb(217, 44, 13);
+}
+
+img {
+    width: 550px;
+    height: auto;
+}
+
+p {
+    font-size: 1.5rem;
+}
