@@ -10,3 +10,5 @@
 ### score is incremented for each letter of word
 ### after score is complete, func ends by outputting score to DOM
 ### If word is not in dictionary, output msg says so.
+### See the slideshow demo at:
+### https://guesstimation.net/BrianSlider/brian-slider.html
